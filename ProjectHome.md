@@ -1,0 +1,1 @@
+System provides new way to management for restaurant in ordering, billing and Statistics.
